@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Medical</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="enter_medication_title">Enter Medication title</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="set_reminder_date_and_time">Set reminder date and time</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="save_task">Save Task</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="history">History</string>
+    <string name="search">Search</string>
+</resources>
